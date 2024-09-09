@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "<img src='https://www.facebook.com/photo/?fbid=469568245875091&set=a.115406317957954&__cft__[0]=AZVcEjBi8obvpSpEZicnwptuudfgTzvXLlMU25v2oIGu-HpzJV07r3kjHvCHWJANrNgyiW6w6RQkkINHrr54u0ymzfr2IugMx4XBeIlqApKE8fQ-rDaqlIWDmOU5xc33QBKPTkGNyOcFiHShxbb-le2Qz38QG1ejEUYXRNDhuP3twYKVhBP4EQfY7mkP16hAIO7FPfgXFoflopSi38C3s2cPwAjrv3VxTHfgGl0g8p0V7Q&__tn__=EH-y-R'",
+      "views": 100
+    },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
