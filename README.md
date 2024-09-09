@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+#This is simple E-Commerce Website
+ This website make by vue js. This website make fully full responsive by Bootstrap 5. User can buy any product in this website. User can save product on his wishlist. User can buy multiple Product in one time.  
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Project Setup
+```
+npm install
+```
+## Create vite App
+```
+npm create vite@latest e-commerce -- --template vue
+``` 
+##  Compiles and hot-reloads for development
+```
+npm run serve
+```
+## Compiles and minifies for production
+```
+npm run build
+```
+
+## Lints and fixes files
+```
+npm run lint
+```
+## API
+```
+https://limitless-lake-55070.herokuapp.com/
+```
+
+# Live
+See: https://ecommerce1-d2x.pages.dev/
+
+### Note: This API is not mine. 
